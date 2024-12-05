@@ -1,0 +1,9 @@
+Flask
+flask-cors
+python-dotenv
+requests
+langchain
+openai
+jsonschema
+tkinter
+PyPDF2
