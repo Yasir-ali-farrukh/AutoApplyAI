@@ -1,0 +1,127 @@
+{
+    "personalInformation": { 
+      "firstName": "",
+      "middleName": "",
+      "lastName": "",
+      "dateOfBirth": "",
+      "gender": "",
+      "Pronoun": "",
+      "nationality": "",
+      "maritalStatus": "",
+      "email": "",
+      "phone": "",
+      "countryPhoneCode": "",
+      "address": {
+        "street": "",
+        "apartment": "",
+        "city": "",
+        "state": "",
+        "postalCode": "",
+        "country": ""
+      },
+      "languages": [],
+      "race": "",
+      "veteranStatus": "",
+      "disabilityStatus": ""
+    },
+    "education": [
+      {
+        "degree_level": "",
+        "fieldOfStudy_major": "",
+        "university": "",
+        "startingd_date": "",
+        "graduation_date/expected_graduation_date": "",
+        "gpa": "",
+        "honors": ""
+      }
+    ],
+    "workExperience": [
+      {
+        "jobTitle": "",
+        "company": "",
+        "location": "",
+        "startDate": "",
+        "endDate": "",
+        "responsibilities": [],
+        "achievements": []
+      }
+    ],
+    "skills": {
+      "technicalSkills": []
+    },
+    "certifications": [
+      {
+        "name": "",
+        "issuingOrganization": "",
+        "issueDate": "",
+        "expirationDate": "",
+        "credentialID": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "",
+        "description": "",
+        "technologiesUsed": [],
+        "role": "",
+        "startDate": "",
+        "endDate": ""
+      }
+    ],
+    "publications": [
+      {
+        "title": "",
+        "journal": "",
+        "publicationDate": "",
+        "url": ""
+      }
+    ],
+    "awards": [
+      {
+        "name": "",
+        "awardingOrganization": "",
+        "date": ""
+      }
+    ],
+    "volunteerExperience": [
+      {
+        "organization": "",
+        "role": "",
+        "startDate": "",
+        "endDate": "",
+        "responsibilities": []
+      }
+    ],
+    "references": [
+      {
+        "name": "",
+        "relationship": "",
+        "company": "",
+        "email": "",
+        "phone": ""
+      }
+    ],
+    "preferences": {
+      "desiredSalary": "",
+      "locationPreferences": [],
+      "willingToRelocate": true,
+      "willingToTravel": true,
+      "remoteWork": true,
+      "availabilityDate": "",
+      "employmentStatus": ""
+    },
+    "workAuthorization": {
+      "authorizedToWorkInCountry": true,
+      "requiresVisaSponsorship": true,
+      "workPermitType": ""
+    },
+    "additionalInformation": {
+      "website": "",
+      "linkedin": "",
+      "google_scholar": "",
+      "how_did_you_hear_about_the_job": "Linkedin",
+      "phone_device": "mobile",
+      "Export Control & Compliance": ""
+    }
+  }
+  
