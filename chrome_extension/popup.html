@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>LLM Form Filler</title>
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <style>
+        body { 
+            min-width: 200px; 
+            padding: 20px; 
+            font-family: 'Roboto', sans-serif; 
+            background-color: #ffffff; /* Changed to white */
+            margin: 0;
+        }
+        #logo {
+            display: block;
+            margin: 0 auto 0px auto;
+            width: 120px; /* Adjust the width as needed */
+            height: auto;
+        }
+        button { 
+            width: 100%; 
+            padding: 12px; 
+            background-color: #6c757d;; 
+            color: #fff; 
+            border: none; 
+            border-radius: 4px; 
+            font-size: 16px; 
+            cursor: pointer; 
+            transition: background-color 0.3s ease;
+        }
+        button:hover {
+            background-color: #5a6268;
+        }
+        #status { 
+            margin-top: 20px; 
+            font-size: 14px; 
+            color: #666; 
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <img src="icons/LOGO.png" alt="Form Filler Logo" id="logo">
+    <button id="fillForm">Fill Form</button>
+    <div id="status"></div>
+    <script src="popup.js"></script>
+</body>
+</html>
